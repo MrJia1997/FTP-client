@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="FTP_Client">
+        <file>FTP_Client.ico</file>
+    </qresource>
+</RCC>
